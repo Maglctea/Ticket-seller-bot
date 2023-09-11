@@ -3,8 +3,8 @@
 ## installation
 ### Docker
 ```bash
-docker build -t yandexbot .
-docker run --name yandexbot --restart always yandexbot
+docker build -t ticketbot .
+docker run --name ticketbot --restart always ticketbot
 ```
 
 ### Without docker
