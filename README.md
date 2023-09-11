@@ -6,6 +6,8 @@ git clone https://github.com/Maglctea/Ticket-seller-bot.git
 ```
 
 ## installation
+1. Open project folder
+2. Create/edit `.env` file (template in `.env.simle`)
 ### Docker
 ```bash
 docker build -t ticketbot .
