@@ -1,5 +1,10 @@
 # Ticket-seller-bot (aiogram bot)
 
+## Download
+```bash
+git clone https://github.com/Maglctea/Ticket-seller-bot.git
+```
+
 ## installation
 ### Docker
 ```bash
